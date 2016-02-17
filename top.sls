@@ -1,3 +1,3 @@
-base:
+PILLARTEST:
   '*':
     - datasources.dev
