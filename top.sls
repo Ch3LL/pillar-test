@@ -1,3 +1,3 @@
 base:
-  '*':
-    - datasources.dev
+  'min*':
+    - kerberos
