@@ -1,3 +1,3 @@
-test:
-  'min*':
-    - kerberos
+dev:
+  '*':
+    - default
