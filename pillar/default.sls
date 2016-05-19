@@ -3,3 +3,5 @@ pkg:
     - vim
   purged:
     - htop
+  test:
+    - test1
