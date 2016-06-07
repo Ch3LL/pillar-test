@@ -1,3 +1,3 @@
-test:
+base:
   '*':
     - issues.33820
